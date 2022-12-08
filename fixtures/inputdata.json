@@ -1,0 +1,308 @@
+{
+    
+  
+       "prebid-data" : {
+        "id": "57595b7d-7291-4aa0-b79e-2b10b5fb7a98",
+        "imp": [
+            {
+                "id": "73c36b29c996dc",
+                "adUnitCode": "investingchannel_div_7683534247595589",
+                "placement": "barchart_AC_Desktop_3x6_1",
+                "banner": {
+                    "format": [
+                        {
+                            "w": 728,
+                            "h": 90
+                        },
+                        {
+                            "w": 3,
+                            "h": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "745c437d6fb3b9e",
+                "adUnitCode": "investingchannel_div_4341339413136296",
+                "placement": "barchart_AC_Desktop_3x3_1",
+                "banner": {
+                    "format": [
+                        {
+                            "w": 728,
+                            "h": 90
+                        },
+                        {
+                            "w": 3,
+                            "h": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7505fbcf35a7a82",
+                "adUnitCode": "investingchannel_div_3828235255677468",
+                "placement": "barchart_AC_Desktop_300x250_1",
+                "banner": {
+                    "format": [
+                        {
+                            "w": 300,
+                            "h": 250
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "767c3d0e4b0b219",
+                "adUnitCode": "investingchannel_div_7057845398048597",
+                "placement": "barchart_AC_Desktop_300x384_1",
+                "banner": {
+                    "format": [
+                        {
+                            "w": 300,
+                            "h": 250
+                        },
+                        {
+                            "w": 300,
+                            "h": 600
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7769e138204f8b4",
+                "adUnitCode": "investingchannel_div_781654497639230",
+                "placement": "barchart_AC_Desktop_160x600_1",
+                "banner": {
+                    "format": [
+                        {
+                            "w": 160,
+                            "h": 600
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "788b42e93d3dab4",
+                "adUnitCode": "investingchannel_div_7042951268493629_HV",
+                "placement": "barchart_HV_AC_Desktop_728x90_1",
+                "banner": {
+                    "format": [
+                        {
+                            "w": 728,
+                            "h": 90
+                        },
+                        {
+                            "w": 970,
+                            "h": 90
+                        }
+                    ]
+                }
+            }
+        ],
+        "site": {
+            "id": "dZhv4F",
+            "domain": "www.barchart.com",
+            "page": "https://www.barchart.com/story/news/10992036/ford-stock-looks-cheap-here-ahead-of-earnings",
+            "ref": "https://www.barchart.com/story/news/10992036/ford-stock-looks-cheap-here-ahead-of-earnings"
+        }
+       } ,
+
+       "prebids2s-data" :{
+        "id": "1846",
+        "imp": [
+            {
+                "id": "/73188406/testing/tester",
+                
+                "banner": {
+                    "format": [
+                        {
+                            "w": 300,
+                            "h": 250
+                        },
+                        {
+                            "w": 320,
+                            "h": 50
+                        }
+                    ]
+                },
+                "secure": 1,
+                "ext": {
+                    "bidder": {
+                        "siteId": "VxSoef", 
+                        "position": "best", 
+                        "domain": "testingdomain.in"
+                    }
+                }
+            }
+        ],
+        "site": {
+            "domain": "example.ampproject.org",
+            "page": "https://example.ampproject.org/article-metadata.html",
+            "publisher": {
+                "id": "pub-6607161580635964"
+            },
+            "ext": {
+                "amp": 1
+            }
+        },
+        "device": {
+            "ua": "{{m-ios}}",
+            "ip": "{{ip-us}}"
+        },
+        "test": 1,
+        "at": 1,
+        "tmax": 10600,
+        "cur": [
+            "INR"
+        ],
+        "source": {
+            "tid": "26791cb9-fee8-4e3a-bde3-7fd9eba01c2e",
+            "ext": {
+                "schain": {
+                    "complete": 1,
+                    "nodes": [
+                        {
+                            "asi": "automatad.com",
+                            "sid": "2311913816266512",
+                            "hp": 1
+                        }
+                    ],
+                    "ver": "1.0"
+                }
+            }
+        },
+        "ext": {
+            "prebid": {
+                "aliases": {
+                    "districtm": "appnexus"
+                },
+                "bidadjustmentfactors": {
+                    "districtm": 1,
+                    "smartadserver": 0.8
+                },
+                "cache": {
+                    "bids": {
+                        "returnCreative": null
+                    },
+                    "vastxml": null
+                },
+                "channel": {
+                    "name": "amp",
+                    "version": ""
+                },
+                "targeting": {
+                    "pricegranularity": {
+                        "precision": 2,
+                        "ranges": [
+                            {
+                                "min": 0,
+                                "max": 2000,
+                                "increment": 0.5
+                            }
+                        ]
+                    },
+                    "includewinners": true,
+                    "includebidderkeys": true,
+                    "includebrandcategory": null,
+                    "includeformat": false,
+                    "durationrangesec": null,
+                    "preferdeals": false
+                }
+            }
+        }
+    
+    
+       },
+
+      "timeout" : {[
+        {
+            "bidId": "7404e9e2c95f455",
+            "bidder": "automatad",
+            "adUnitCode": "investingchannel_div_66427670354805_HV",
+            "auctionId": "f47a6727-0ad1-423f-b57d-c6a53c61e327",
+            "params": [
+                {
+                    "siteId": "dZhv4F",
+                    "placementId": "barchart_HV_AC_Desktop_728x90_1"
+                }
+            ],
+            "timeout": 1350
+        },
+        {
+            "bidId": "75b1837b1d19956",
+            "bidder": "automatad",
+            "adUnitCode": "investingchannel_div_6434684714341343",
+            "auctionId": "f47a6727-0ad1-423f-b57d-c6a53c61e327",
+            "params": [
+                {
+                    "siteId": "dZhv4F",
+                    "placementId": "barchart_AC_Desktop_3x1_2"
+                }
+            ],
+            "timeout": 1350
+        },
+        {
+            "bidId": "769c24c2afd098",
+            "bidder": "automatad",
+            "adUnitCode": "investingchannel_div_4664267128423054",
+            "auctionId": "f47a6727-0ad1-423f-b57d-c6a53c61e327",
+            "params": [
+                {
+                    "siteId": "dZhv4F",
+                    "placementId": "barchart_AC_Desktop_3x1_3"
+                }
+            ],
+            "timeout": 1350
+        },
+        {
+            "bidId": "77236ab50d120cf",
+            "bidder": "automatad",
+            "adUnitCode": "investingchannel_div_6094780544743692",
+            "auctionId": "f47a6727-0ad1-423f-b57d-c6a53c61e327",
+            "params": [
+                {
+                    "siteId": "dZhv4F",
+                    "placementId": "barchart_AC_Desktop_300x250_1"
+                }
+            ],
+            "timeout": 1350
+        },
+        {
+            "bidId": "7875913795be3f3",
+            "bidder": "automatad",
+            "adUnitCode": "investingchannel_div_9002920801078087",
+            "auctionId": "f47a6727-0ad1-423f-b57d-c6a53c61e327",
+            "params": [
+                {
+                    "siteId": "dZhv4F",
+                    "placementId": "barchart_AC_Desktop_160x600_1"
+                }
+            ],
+            "timeout": 1350
+        }
+       ]},
+
+       "tagrequest" : {
+
+       },
+
+       "unitag" :{
+
+       },
+        
+       "getamp" :{
+
+       },
+
+       "win-notification" :{
+
+       },
+
+       "keyword" :{
+        
+       }
+
+
+  
+    
+}
